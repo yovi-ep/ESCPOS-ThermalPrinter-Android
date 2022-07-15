@@ -1,2 +1,4 @@
 include ':app', ':escposprinter'
+include ':escposprinter-compose'
+
 rootProject.name='ThermalPrinter'
